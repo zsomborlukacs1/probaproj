@@ -1,0 +1,3 @@
+C:/Users/Lukács Zsombor/CLionProjects/ADATSZERK1/probaproj/cmake-build-debug/CMakeFiles/probaproj.dir
+C:/Users/Lukács Zsombor/CLionProjects/ADATSZERK1/probaproj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lukács Zsombor/CLionProjects/ADATSZERK1/probaproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

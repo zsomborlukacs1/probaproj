@@ -3,4 +3,4 @@ project(probaproj C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(probaproj main.c)
+add_executable(probaproj main.c functions.c functions.h)
